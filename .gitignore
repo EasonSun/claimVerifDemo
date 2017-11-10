@@ -1,0 +1,4 @@
+*.pyc
+.DS_Store
+Icon?
+__pycache__
